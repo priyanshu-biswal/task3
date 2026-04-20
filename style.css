@@ -1,0 +1,53 @@
+body {
+    background-color: coral;
+}
+
+.head {
+    color: darkblue;
+}
+
+#bglime {
+    background-color: lime;
+}
+
+p {
+    color: white;
+}
+
+#para {
+    color: green;
+}
+
+
+#bglime span {
+    color: red;
+    background-color: lime;
+}
+
+p span {
+    color: black;
+    font-size: 25px;
+    background-color: coral;
+}
+
+a[href] {
+    color: white;
+    padding: 2px 5px;
+    text-decoration: none;
+}
+
+a[href*="upskillmafia"] {
+    background-color: limegreen;
+}
+
+a[href*="google"] {
+    background-color: aqua;
+}
+
+ol {
+    color: black;
+}
+
+.orderedli {
+    color: royalblue;
+}
